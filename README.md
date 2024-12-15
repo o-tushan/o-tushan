@@ -10,7 +10,7 @@ Looking at my Github repositories, you will find the projects that I am currentl
   A project in C++ that takes in a CSV of tweets (or X's?) and trains itself based on if the tweet is considered "positive" or "negative", taking this into account for every word used in the tweet. After this training, it tests on another set of tweets. Using the trained data of what words are considered positive or negative, it determines the sentiment of a new tweet.
 
 
-- Search Engine:
+- ### Search Engine: ###
 
 
 - ### Artificial Intelligence Mobile App: ###
