@@ -2,7 +2,7 @@
 
 #### My name is Owen Tushan, and I am a current student at Southern Methodist University, pursuing a major in Computer Science as well as a major in Data Science. I am interested in the field of data science and data analytics, and I am looking to get an internship for the summer of 2025, and I think I would be a good fit at your company. ####
 
-Looking at my Github repositories, you will find the projects that I am currently working on as well as the projects I have completed. Below is an outline of the projects contained in  this repository
+Looking at my Github repositories, you will find the projects that I am currently working on as well as the projects I have completed. Below is an outline of the projects contained in this page
 
 
 - ### Sentiment Analyzer: ###
